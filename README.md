@@ -10,5 +10,8 @@ Login to Google docs or create an account to save this doc
 * 20230710 RiskA RIIOT building
 * https://docs.google.com/spreadsheets/d/1Mq9DGSAtyTI_9GRfCSQ9r4TRuQrw_JU5BNxvcwyskhw
 
+* DAY 2 Sheet
+* https://docs.google.com/spreadsheets/d/1cLtb56ap4t6FCxk6p010QUjwiHmxH7c8LXGZtBjjSbc/
+
 
 *The zip file has a password that will be given out in class
